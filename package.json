@@ -1,0 +1,15 @@
+{
+  "name": "axmap",
+  "version": "1.0.0",
+  "description": "A javascript map, only more compact and with other features that do not have in the standard javascript Map!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./typings/types.d.ts",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
